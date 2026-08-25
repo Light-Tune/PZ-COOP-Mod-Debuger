@@ -1,7 +1,7 @@
-===========================================================================
+==========================================
    PROJECT ZOMBOID - MOD TIKANIKLIGI ACICI
    (Coop / Host sunucusu acilmiyorsa)
-===========================================================================
+==========================================
 
 NE ISE YARAR
 ------------
@@ -105,4 +105,4 @@ S: Arkadaslarim da mi calistirmali?
 C: Sadece SUNUCUYU ACAN kisi calistirmali. Katilan oyuncular normal
    sekilde Atolye'den abone olur, onlarda bu sorun olusmaz.
 
-===========================================================================
+============================================
